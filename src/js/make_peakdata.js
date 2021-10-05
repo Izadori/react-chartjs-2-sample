@@ -26,8 +26,8 @@ const maxEnergy = 10.0;
 const energyPerCh = maxEnergy / chCount;
 const peak1 = 4.5;
 const peak2 = 6.3;
-const intensity1 = 100;
-const intensity2 = 10;
+const intensity1 = 10;
+const intensity2 = 1;
 const fwhm = 0.15;
 const offset = 0.5;
 
